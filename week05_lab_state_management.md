@@ -512,6 +512,9 @@ class HomePage extends StatelessWidget {
 
 ```
 
+https://github.com/user-attachments/assets/d9d3954d-c2d8-4751-a99a-64bf032a6d00
+
+
 ---
 
 ## ส่วนที่ 3: ใช้ AI ช่วยเลือกแนวทาง State Management
